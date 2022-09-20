@@ -1,0 +1,21 @@
+{
+  "name": "tometrade",
+  "version": "1.0.0",
+  "description": "SSDI Project",
+  "main": "app.js",
+  "dependencies": {
+    "@mui/icons-material": "^5.0.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.2",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

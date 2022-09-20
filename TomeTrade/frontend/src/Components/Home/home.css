@@ -1,0 +1,25 @@
+.Test {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 3em;
+    color: white;
+}
+
+.tabpanel 
+{
+    display: flex;
+    justify-content: center;
+    margin-left: 1em;
+    margin-top: 0.5em;
+    height: 100vh;
+    width: 100%;
+}
+
+.logout
+{
+    display: flex;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    justify-content: end;
+}
